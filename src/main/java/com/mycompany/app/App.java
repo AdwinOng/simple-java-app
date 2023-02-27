@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("One ring to rule them all");
+        System.out.println("Test");
     }
 
     public String getMessage() {
