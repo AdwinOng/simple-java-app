@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Try fail");
+        System.out.println("Test script");
     }
 
     public String getMessage() {
